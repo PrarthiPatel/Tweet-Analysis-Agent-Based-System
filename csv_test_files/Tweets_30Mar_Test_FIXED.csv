@@ -1,0 +1,26 @@
+User,Tweet,Likes,Retweets,Engagement,Original_Tweet,DateTime,date,month,year,hour,Polarity,Sentiment
+user_1,Renewable energy adoption is increasing,248,113,361,Renewable energy adoption is increasing,2023-03-25 09:00:00,25-03-2023,3,2023,9,0.6,Positive
+user_2,Policy discussion took place,127,59,186,Policy discussion took place,2023-03-25 09:20:00,25-03-2023,3,2023,9,0.0,Neutral
+user_3,Protests erupted in several areas,109,72,181,Protests erupted in several areas,2023-03-25 09:40:00,25-03-2023,3,2023,9,-0.6,Negative
+user_4,Government reforms are showing positive results,31,70,101,Government reforms are showing positive results,2023-03-25 10:00:00,25-03-2023,3,2023,10,0.6,Positive
+user_5,Debate on regulations ongoing,255,114,369,Debate on regulations ongoing,2023-03-25 10:20:00,25-03-2023,3,2023,10,0.0,Neutral
+user_6,Economic slowdown fears persist,118,104,222,Economic slowdown fears persist,2023-03-25 10:40:00,25-03-2023,3,2023,10,-0.6,Negative
+user_7,Infrastructure development is gaining momentum,251,56,307,Infrastructure development is gaining momentum,2023-03-25 11:00:00,25-03-2023,3,2023,11,0.6,Positive
+user_8,Parliament session continued today,269,19,288,Parliament session continued today,2023-03-25 11:20:00,25-03-2023,3,2023,11,0.0,Neutral
+user_9,Policy execution faces challenges,281,135,416,Policy execution faces challenges,2023-03-25 11:40:00,25-03-2023,3,2023,11,-0.6,Negative
+user_10,Infrastructure development is gaining momentum,163,21,184,Infrastructure development is gaining momentum,2023-03-25 12:00:00,25-03-2023,3,2023,12,0.6,Positive
+user_11,Policy discussion took place,86,136,222,Policy discussion took place,2023-03-25 12:20:00,25-03-2023,3,2023,12,0.0,Neutral
+user_12,Policy execution faces challenges,27,53,80,Policy execution faces challenges,2023-03-25 12:40:00,25-03-2023,3,2023,12,-0.6,Negative
+user_13,Digital India initiatives are impactful,233,49,282,Digital India initiatives are impactful,2023-03-25 13:00:00,25-03-2023,3,2023,13,0.6,Positive
+user_14,Committee meeting held today,267,105,372,Committee meeting held today,2023-03-25 13:20:00,25-03-2023,3,2023,13,0.0,Neutral
+user_15,Policy execution faces challenges,175,15,190,Policy execution faces challenges,2023-03-25 13:40:00,25-03-2023,3,2023,13,-0.6,Negative
+user_16,Infrastructure development is gaining momentum,140,98,238,Infrastructure development is gaining momentum,2023-03-25 14:00:00,25-03-2023,3,2023,14,0.6,Positive
+user_17,Election dates were discussed,262,76,338,Election dates were discussed,2023-03-25 14:20:00,25-03-2023,3,2023,14,0.0,Neutral
+user_18,Rising prices are worrying citizens,202,14,216,Rising prices are worrying citizens,2023-03-25 14:40:00,25-03-2023,3,2023,14,-0.6,Negative
+user_19,Infrastructure development is gaining momentum,290,61,351,Infrastructure development is gaining momentum,2023-03-25 15:00:00,25-03-2023,3,2023,15,0.6,Positive
+user_20,Committee meeting held today,226,76,302,Committee meeting held today,2023-03-25 15:20:00,25-03-2023,3,2023,15,0.0,Neutral
+user_21,Public dissatisfaction is increasing,214,92,306,Public dissatisfaction is increasing,2023-03-25 15:40:00,25-03-2023,3,2023,15,-0.6,Negative
+user_22,Infrastructure development is gaining momentum,109,74,183,Infrastructure development is gaining momentum,2023-03-25 16:00:00,25-03-2023,3,2023,16,0.6,Positive
+user_23,Committee meeting held today,252,143,395,Committee meeting held today,2023-03-25 16:20:00,25-03-2023,3,2023,16,0.0,Neutral
+user_24,Rising prices are worrying citizens,229,137,366,Rising prices are worrying citizens,2023-03-25 16:40:00,25-03-2023,3,2023,16,-0.6,Negative
+user_25,Economic growth indicators look promising,227,80,307,Economic growth indicators look promising,2023-03-25 17:00:00,25-03-2023,3,2023,17,0.6,Positive

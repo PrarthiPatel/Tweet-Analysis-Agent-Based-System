@@ -1,0 +1,26 @@
+User,Tweet,Likes,Retweets,Engagement,Original_Tweet,DateTime,date,month,year,hour,Polarity,Sentiment
+analyst_user_1,Youth participation in elections is increasing,169,112,281,Youth participation in elections is increasing,2023-03-27 10:00:00,27-03-2023,3,2023,10,0.7,Positive
+analyst_user_2,Election delays caused public frustration,81,21,102,Election delays caused public frustration,2023-03-27 10:18:00,27-03-2023,3,2023,10,-0.7,Negative
+analyst_user_3,Election schedule announced today,81,121,202,Election schedule announced today,2023-03-27 10:36:00,27-03-2023,3,2023,10,0.0,Neutral
+analyst_user_4,Election monitoring technology performed well,370,33,403,Election monitoring technology performed well,2023-03-27 10:54:00,27-03-2023,3,2023,10,0.7,Positive
+analyst_user_5,Opposition raised concerns over transparency,184,137,321,Opposition raised concerns over transparency,2023-03-27 11:12:00,27-03-2023,3,2023,11,-0.7,Negative
+analyst_user_6,Security arrangements were reviewed,168,169,337,Security arrangements were reviewed,2023-03-27 11:30:00,27-03-2023,3,2023,11,0.0,Neutral
+analyst_user_7,Voter awareness campaigns are receiving positive feedback,230,115,345,Voter awareness campaigns are receiving positive feedback,2023-03-27 11:48:00,27-03-2023,3,2023,11,0.7,Positive
+analyst_user_8,Technical glitches disrupted polling,339,123,462,Technical glitches disrupted polling,2023-03-27 12:06:00,27-03-2023,3,2023,12,-0.7,Negative
+analyst_user_9,Election guidelines were released,300,200,500,Election guidelines were released,2023-03-27 12:24:00,27-03-2023,3,2023,12,0.0,Neutral
+analyst_user_10,Election commission initiatives improved transparency,161,56,217,Election commission initiatives improved transparency,2023-03-27 12:42:00,27-03-2023,3,2023,12,0.7,Positive
+analyst_user_11,Security lapses reported during voting,238,35,273,Security lapses reported during voting,2023-03-27 13:00:00,27-03-2023,3,2023,13,-0.7,Negative
+analyst_user_12,Political parties filed nominations,159,157,316,Political parties filed nominations,2023-03-27 13:18:00,27-03-2023,3,2023,13,0.0,Neutral
+analyst_user_13,Smooth polling process reported across regions,184,103,287,Smooth polling process reported across regions,2023-03-27 13:36:00,27-03-2023,3,2023,13,0.7,Positive
+analyst_user_14,Security lapses reported during voting,258,44,302,Security lapses reported during voting,2023-03-27 13:54:00,27-03-2023,3,2023,13,-0.7,Negative
+analyst_user_15,Security arrangements were reviewed,333,108,441,Security arrangements were reviewed,2023-03-27 14:12:00,27-03-2023,3,2023,14,0.0,Neutral
+analyst_user_16,Election monitoring technology performed well,385,194,579,Election monitoring technology performed well,2023-03-27 14:30:00,27-03-2023,3,2023,14,0.7,Positive
+analyst_user_17,Opposition raised concerns over transparency,81,41,122,Opposition raised concerns over transparency,2023-03-27 14:48:00,27-03-2023,3,2023,14,-0.7,Negative
+analyst_user_18,Election guidelines were released,215,104,319,Election guidelines were released,2023-03-27 15:06:00,27-03-2023,3,2023,15,0.0,Neutral
+analyst_user_19,High voter turnout reflects democratic strength,81,39,120,High voter turnout reflects democratic strength,2023-03-27 15:24:00,27-03-2023,3,2023,15,0.7,Positive
+analyst_user_20,Opposition raised concerns over transparency,68,163,231,Opposition raised concerns over transparency,2023-03-27 15:42:00,27-03-2023,3,2023,15,-0.7,Negative
+analyst_user_21,Election code of conduct remains active,77,140,217,Election code of conduct remains active,2023-03-27 16:00:00,27-03-2023,3,2023,16,0.0,Neutral
+analyst_user_22,Public trust in electoral process is improving,70,128,198,Public trust in electoral process is improving,2023-03-27 16:18:00,27-03-2023,3,2023,16,0.7,Positive
+analyst_user_23,Voters complained about long queues,251,128,379,Voters complained about long queues,2023-03-27 16:36:00,27-03-2023,3,2023,16,-0.7,Negative
+analyst_user_24,Election code of conduct remains active,212,38,250,Election code of conduct remains active,2023-03-27 16:54:00,27-03-2023,3,2023,16,0.0,Neutral
+analyst_user_25,Election commission initiatives improved transparency,350,79,429,Election commission initiatives improved transparency,2023-03-27 17:12:00,27-03-2023,3,2023,17,0.7,Positive
